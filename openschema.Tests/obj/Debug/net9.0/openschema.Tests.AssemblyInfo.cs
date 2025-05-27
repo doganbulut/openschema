@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("openschema.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+083a209170693acbc8d3fc108aa419425901f1e7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+43ac370a9fbcee6ed5dd7d039074984d77c10f66")]
 [assembly: System.Reflection.AssemblyProductAttribute("openschema.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("openschema.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
