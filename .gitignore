@@ -26,6 +26,7 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
+dll/
 
 # Visual Studio 2019 config folder
 .vs/
